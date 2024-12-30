@@ -80,6 +80,9 @@ Aqui estão alguns dos eventos que participei, incluindo minicursos e semanas de
 - **[XII Semana da Computação (SECOM)]** - Universidade Federal de Viçosa - Campus UFV - Florestal | 22/09/2023 a 29/09/2023  
   Atestado de participação com carga horária de 8 horas, discutindo inovações e tendências na computação e desenvolvimento de software.
 
+- **[AWS Partner: Credenciamento (Técnico) (Português)]** - Amazon Web Services | 30/12/2024  
+  Certificado de conclusão do curso de credenciamento técnico AWS Partner, com foco nas soluções e serviços da AWS voltados para computação em nuvem.
+
 ---
 
 **Atenção**: Este repositório é pessoal e serve como um portfólio de minha trajetória na área de computação. Os certificados e realizações aqui presentes são frutos do meu esforço e aprendizado contínuo.
@@ -103,3 +106,5 @@ Sinta-se à vontade para explorar e acompanhar meu progresso!
 
 Você pode me encontrar em:  
 [LinkedIn](https://www.linkedin.com/in/maria-eduarda-de-pinho-braga-558057219/) | [GitHub](https://github.com/Duds04)
+
+---
