@@ -2,14 +2,6 @@
 
 Este repositório armazena meus certificados, conquistas e marcos importantes na área de computação. Aqui, você encontrará certificados de cursos, maratonas de programação, projetos desenvolvidos, e outros certificados relacionados à minha jornada no mundo da tecnologia.
 
-## Índice 📑
-
-1. [Cursos](#cursos)
-2. [Maratonas de Programação](#maratonas-de-programação)
-3. [Projetos Pessoais](#projetos-pessoais)
-4. [Certificados Diversos](#certificados-diversos)
-5. [Eventos](#eventos)
-6. [Como Contribuir](#como-contribuir)
 
 ## Cursos 🎓
 
